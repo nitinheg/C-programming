@@ -1,0 +1,15 @@
+Question is in ep 5 of think like a coder by ted-ed
+
+measure the size of the portrait in pixels
+save size
+number each pixels according to its row and column
+
+coutn loop begins, count 1 to size
+	check if row and column are same
+		if yes then paint it
+loop ends
+
+count loop begins, count 1 to size
+	check if row + column == size + 1
+		if yes paint it
+loop ends
