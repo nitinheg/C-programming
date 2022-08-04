@@ -1,0 +1,18 @@
+This is from think like a coder ep4 from youtube.
+
+take a furnace bot
+check it's furnace number
+compare it's furnace number with shell of all other bots
+if the bot's shell number matches 
+	this is not the parent bot
+else this is the parent bot
+	upload control program
+
+do this until bot is found
+take the funace number of this bot
+comapre this bot's furnace nuumber with shall of all other bots
+if the bot's shell number matches 
+	this is not the parent bot
+else this is the parent bot
+	upload control program
+end of loop
