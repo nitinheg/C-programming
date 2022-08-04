@@ -1,0 +1,40 @@
+Print Fibonacci series
+
+1,1,2,3,5,8,13,21,34,55
+
+=================
+STEP1
+
+0+1 = 1
+
+================
+SETP2
+
+add x and y
+write down the result z
+
+add y and z
+write down the result a
+
+add z and a
+write down the result b
+
+===========
+SETP3
+start loop 
+ask "how many numbers of Fibonacci should be printed?"
+save the value in l
+if l > 0 exit the loop
+say "please enter a valid number"
+loop ends
+
+start with x = 0 and y = 1
+
+loop start from 1 to l
+	add x and y
+	write down the result
+	save it in z
+	put value of y inside x
+	put value of z inside y
+loop end
+
